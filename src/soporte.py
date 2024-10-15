@@ -98,6 +98,6 @@ def get_all_data(df,token):
     for e in lista_municip:
         for c in tqdm(categoria):
             df_temp = get_data_places(e[0],c,distancia,e[1],e[2],token)
-            df_final = pd.concat([df_final, df_temp], ignore_index=True)
+            df_final = pd.concat([df_temp, df_final], ignore_index=True)
             
     return pd.DataFrame(df_final)

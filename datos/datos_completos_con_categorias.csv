@@ -1,202 +1,202 @@
 ,fsq_id,distance,name,municipio,id_categoria,categoria,direccion,latitud,longitud
-0,4eb5611c93ad236570219cc8,155,Hotel indignado,madrid,16033,Dog Park,,40.415322,-3.70331
-1,4e6b38b4227162c38ec50ea0,309,Parque infantil Plaza Santa Ana,madrid,16037,Playground,Madrid Comunidad de Madrid,40.414998,-3.700691
-2,4f6f520be4b056aa9465342a,428,Parque Madrid Río,madrid,16032,Park,28011 Madrid Comunidad de Madrid,40.420474,-3.70466
-3,4f3bc8a4e4b0258ec279c458,431,"Valverde, 2",madrid,16037,Playground,Valverde,40.420428,-3.702154
-4,4e7154af1838677342eebeb5,618,Parque Atocha,madrid,16037,Playground,Madrid Comunidad de Madrid,40.422176,-3.702259
-5,58e4bb56072d6b471bc5e7a9,641,Almendro3,madrid,16037,Playground,28005 Madrid Comunidad de Madrid,40.412769,-3.709132
-6,4e6b347eae60950955d10afa,650,Parque Infantil Vazquez de Mella,madrid,16037,Playground,Madrid Comunidad de Madrid,40.420935,-3.698265
-7,50d86791e4b07ec189f70cb3,720,Parque Infantil Plaza de Oriente,madrid,16032,Park,,40.41752,-3.71203
-8,4e3bc1b1b0fb875af84a53ae,727,Parque infantil,madrid,16037,Playground,Madrid Comunidad de Madrid,40.417508,-3.712112
-9,500a863ae4b0c2a4dfe79290,810,Parque infantil Paseo del Prado,madrid,16037,Playground,"Pase del Prado, 8 (Zona Central), 28014 Madrid Comunidad de Madrid",40.417203,-3.69402
-10,4c963a7c94a0236a0bf49c12,973,Parque del Emir Mohamed I,madrid,16032,Park,"& Calle de Segovia, 28005 Madrid Comunidad de Madrid",40.414652,-3.714769
-11,6257bd119552b7515f326356,1002,Parl,madrid,16032,Park,Madrid Comunidad de Madrid,40.419893,-3.692503
-12,5164077de4b002d2251c0111,1032,Parque Cuesta de la Vega,madrid,16032,Park,Madrid Comunidad de Madrid,40.414783,-3.715479
-13,4adcda38f964a520673c21e3,1039,Jardines de las Vistillas,madrid,16032,Park,"Plaza de Gabriel Miró s/n, 28005 Madrid Comunidad de Madrid",40.412363,-3.714738
-14,61feacd7a086027f084b55e0,1084,Parque de Madrid,madrid,16032,Park,28008 Madrid Comunidad de Madrid,40.422613,-3.713789
-15,501447d1e4b06bc0bdcaa74a,1085,"Rio Manzanares, Principe pio, madrid",madrid,16032,Park,Madrid Comunidad de Madrid,40.426454,-3.702753
-16,4bee6ee3d355a59347e10a60,1197,Parque Casino de la Reina,madrid,16032,Park,"Calle Embajadores, 68, 28012 Madrid Comunidad de Madrid",40.405956,-3.704653
-17,62cfd9aa78c8af1095b7ed93,1209,Parque Calistenia,madrid,16032,Park,28005 Madrid Comunidad de Madrid,40.406543,-3.708692
-18,4c1a55c655e4c9b6ab904723,1250,Parque de la Cornisa,madrid,16032,Park,28005 Madrid Comunidad de Madrid,40.409336,-3.714941
-19,560f7c49498e45c037137430,1261,Parque de Madrid,madrid,16032,Park,Madrid Comunidad de Madrid,40.416692,-3.688647
-20,4faaa6afe4b048756de750db,1283,Área de Juegos Infantiles,madrid,16037,Playground,,40.416313,-3.688424
-21,4db28ec25da3944066ba4217,1306,Plaza de la Independencia (Madrid),madrid,16032,Park,"Plaza de la Independencia, s/n, 28014 Madrid Comunidad de Madrid",40.419818,-3.688171
-22,4bf7e0865317a5930bb0fe7e,1310,Parque de Atenas,madrid,16034,National Park,28005 Madrid Comunidad de Madrid,40.41432,-3.718661
-23,5764328f498ecbd85a1ab2d5,1314,Parque de la Ventosa,madrid,16032,Park,"Calle de la descarga, 28005 Madrid Comunidad de Madrid",40.408136,-3.714298
-24,4fcb2cd6e4b0928dc1bb1b84,1322,Parque Infantil el Fuerte de Madera,madrid,16037,Playground,Madrid Comunidad de Madrid,40.419997,-3.688555
-25,5c715d638ad62e002c78b4e8,1335,El Gran Balancín,madrid,16037,Playground,28009 Madrid Comunidad de Madrid,40.418723,-3.68802
-26,514debf3e4b023ae1105beb6,1338,El Sitio de los Gatos,madrid,16037,Playground,,40.414061,-3.688149
-27,5326dfba498ee418095d2f23,1339,Puerta de Murillo de los Jardines del Buen Retiro,madrid,16032,Park,Madrid Comunidad de Madrid,40.41282,-3.688595
-28,510e5f69e4b0f62779f2e538,1356,Ahuehuete,madrid,16032,Park,Madrid Comunidad de Madrid,40.415728,-3.687599
-29,5326e4dc498e78e019bf55a4,1381,Jardines de el Buen Retiro,madrid,16032,Park,Madrid Comunidad de Madrid,40.419537,-3.687677
-30,4be6a5fa2457a5933c03ad15,1399,Parque Villa de Paris,madrid,16032,Park,"C. Orellana, Madrid Comunidad de Madrid",40.426653,-3.693711
-31,4bd0490aa8b3a593058a635f,1411,Parque de la Montaña,madrid,16032,Park,"Paseo del Pintor Rosales, 2, 28008 Madrid Comunidad de Madrid",40.423525,-3.717616
-32,4f412e60e4b0c80f845a8664,1417,Parque de Conde Duque,madrid,16032,Park,,40.428538,-3.709838
-33,4ead75a0e5fad025f820f973,1476,Paseo de Mexico,madrid,16032,Park,Madrid Comunidad de Madrid,40.41896,-3.686389
-34,4dc5c745887717c8802d2012,1493,Parque Infantil Acacias,madrid,16037,Playground,Madrid Comunidad de Madrid,40.4041,-3.709721
-35,4deb9f2222713dd973b1c66f,1518,Jardines de la Virgen del Puerto,madrid,16032,Park,"Paseo de la Virgen del Puerto, 28011 Madrid Comunidad de Madrid",40.416046,-3.722144
-36,5326e5be11d2ce1ee64c3451,1522,Puerta de Hernani de los Jardines del Buen Retiro,madrid,16032,Park,Madrid Comunidad de Madrid,40.419887,-3.686075
-37,4f10284ee4b0a6added354b9,1532,Parque de Perros,madrid,16033,Dog Park,,40.430189,-3.707381
-38,526e27d911d2a3342d47716a,1539,Puerta de Hernani,madrid,16032,Park,Madrid Comunidad de Madrid,40.420365,-3.686027
-39,5b292c355d891b0039c408e3,1578,Mundo Alopeke,madrid,16037,Playground,28014 Madrid Madrid,40.421319,-3.685931
-40,500af254e4b0b8de34c6c962,1604,Parque infantil san Isidoro de Sevilla,madrid,16037,Playground,"San Isidoro de Sevilla, 28005 Madrid Comunidad de Madrid",40.4036,-3.711539
-41,4bee8228d355a593a6f10a60,1615,Plaza del Conde del Valle de Suchil,madrid,16037,Playground,"Pza. del Conde del Valle de Suchil, 3, 28015 Madrid Comunidad de Madrid",40.430791,-3.707281
-42,4d02a96228926ea8d4e860c2,1618,Parque,madrid,16032,Park,Madrid Comunidad de Madrid,40.4025,-3.707793
-43,4c9cd90946978cfa81db917f,1642,De Duendes,madrid,16037,Playground,Madrid Madrid,40.431458,-3.708761
-44,4c7a3b123badb1f719985154,1661,Parque Infantil,madrid,16032,Park,"Paseo Vallejo Najera, Madrid Comunidad de Madrid",40.401767,-3.704351
-45,c32db5b3432e4a6d96fc314a,1741,Parque del Buen Retiro Guided Tours,madrid,16032,Park,Madrid Madrid,40.414245,-3.683249
-46,6f80c9465c864d8d08d945bd,1743,Teleo Cuentos - Animal Party,madrid,11036,Entertainment Service,"Juan Álvarez Mendizábal, 54, 28008 Madrid Madrid",40.42809,-3.717761
-47,5012752ee4b0b960174c3210,1770,Parque Infantil,madrid,16037,Playground,28005 Madrid Comunidad de Madrid,40.401499,-3.709822
-48,4dc2c2e21f6ebdce472fe96f,1779,Parque Infantil,madrid,16037,Playground,"Calle de Fuencarral, 150, 28010 Madrid Comunidad de Madrid",40.432713,-3.704173
-49,4d270cbff7a9224bfc80e79f,1794,Parque Arganda,madrid,16032,Park,"Yeserias, Madrid Comunidad de Madrid",40.400958,-3.708289
-50,638f11c41e5dc412b931f18d,436,Global Sources,madrid,17114,Shopping Mall,"Calle de Nicolás Usera, 58, 28026 Madrid Comunidad de Madrid",40.416324,-3.698448
-51,50425d0ce4b05698ba4da56d,771,Mercado de las Ranas,madrid,17114,Shopping Mall,"Calle Santa María, 20, 28014 Madrid Comunidad de Madrid",40.413195,-3.695709
-52,4b6efb75f964a520aad42ce3,1407,Príncipe Pío Shopping Center (C.C. Príncipe Pío),madrid,17114,Shopping Mall,"Centro Comercial Principe Pio - Paseo de la Florida, 2, 28008 Madrid Comunidad de Madrid",40.42125,-3.719111
-53,60ff036a646a4753eb93a3b4,1559,Experto en Duchas,madrid,17114,Shopping Mall,"Calle de Ercilla, 20, 28005 Madrid Madrid",40.402685,-3.702893
-54,4cf74cd281cd6dcbe803810d,1645,Goya con Serrano,madrid,17114,Shopping Mall,"Goya, 15 (Serrano), Madrid Comunidad de Madrid",40.425598,-3.688031
-55,662a2c5bfffe446298d57fd2,1695,Hermanos Revilla,madrid,17114,Shopping Mall,"Calle Goya, 8, 28001 Madrid Madrid",40.425174,-3.686908
-56,9f1865bfe39d4fad15f9435a,1776,Quiosco Principe Pio,madrid,17114,Shopping Mall,"Pº de la Florida, s/n, 28008 Madrid Madrid",40.422991,-3.722895
-57,4b8818d5f964a5208cdf31e3,96,La Mallorquina,madrid,13002,Bakery,"Calle Mayor, 2 (Pl. de la Puerta del Sol), 28013 Madrid Comunidad de Madrid",40.416629,-3.704826
-58,5478dde0498eab68d4d6423f,111,Rosi la Loca,madrid,13347,Tapas Restaurant,"Calle de Cádiz, 4, 28012 Madrid Comunidad de Madrid",40.415846,-3.702936
-59,4bf6fcac5efe2d7fa8266834,119,McDonald's,madrid,13031,Burger Joint,"Calle Esparteros, 1, 28012 Madrid Comunidad de Madrid",40.416379,-3.704932
-60,5037d42de4b05af8cbfb9ed0,127,C & Tapas,madrid,13347,Tapas Restaurant,"Calle de la Montera, 10, 28013 Madrid Comunidad de Madrid",40.417642,-3.702715
-61,5342b72f498e3fa654a0c98c,161,La Carmela,madrid,13345,Spanish Restaurant,"Calle de la Victoria, 4, 28012 Madrid Comunidad de Madrid",40.416251,-3.70177
-62,4b6b27c6f964a5204ff62be3,168,El Gaucho,madrid,13070,Argentinian Restaurant,"Calle Tetuán, 34, 28013 Madrid Comunidad de Madrid",40.418173,-3.703104
-63,4c09679d7e3fc928edeaf182,181,Museo del Jamón,madrid,13347,Tapas Restaurant,"Calle Mayor, 7, 28013 Madrid Comunidad de Madrid",40.41631983610847,-3.7056621909141536
-64,4adcda34f964a520383b21e3,183,Lhardy,madrid,13039,Deli,"Carrera de San Jerónimo, 8, 28014 Madrid Comunidad de Madrid",40.41656939854872,-3.7013894319534297
-65,5603f5c6498efc1d2f304241,201,Cafe Carmen 17,madrid,13027,Bistro,"Calle del Carmen, 17, 28013 Madrid Comunidad de Madrid",40.418386,-3.704469
-66,4bc1de4bb492d13ad487a660,202,Ciudad de Tui,madrid,13347,Tapas Restaurant,"Montera, 22, 28013 Madrid Comunidad de Madrid",40.41828,-3.70237
-67,62701d4c260adc31764e5fd5,229,Oroya,madrid,13322,Peruvian Restaurant,"Plaza de Celenque, 2, Madrid Comunidad de Madrid",40.417632,-3.706011
-68,62339f0021287d6fb5191149,251,Jeronimo,madrid,13303,Mexican Restaurant,"Plaza de Celenque, 2, 28013 Madrid Comunidad de Madrid",40.417847,-3.70615
-69,4adcda35f964a5207d3b21e3,280,Chocolatería San Ginés,madrid,13034,Café,"Pasadizo de San Ginés, 5 (C. Arenal), 28013 Madrid Comunidad de Madrid",40.416821,-3.706735
-70,514d73fae4b0f2f188ab8d1c,294,Chocolatería - Churreria - los Artesanos 1902,madrid,13035,Coffee Shop,"Calle San Martín, 2, 28013 Madrid Comunidad de Madrid",40.417564,-3.706882
-71,4bad1658f964a520472c3be3,297,Prada a Tope,madrid,13347,Tapas Restaurant,"Calle Príncipe, 11, 28012 Madrid Comunidad de Madrid",40.415824,-3.700266
-72,51d5c142498eb4644f053d0b,316,La Rollerie,madrid,13034,Café,"Calle Atocha, 20, 28012 Madrid Comunidad de Madrid",40.413887,-3.703073
-73,58e25c5744587f5a0851ffac,343,La Rollerie,madrid,13035,Coffee Shop,"Carrera San Jerónimo, 26, 28014 Madrid Comunidad de Madrid",40.416509,-3.699594
-74,4c9cdc768afca093b936f115,345,La Campana,madrid,13006,Beer Bar,"Calle Botoneras, 6, 28012 Madrid Comunidad de Madrid",40.414862,-3.706872
-75,539ec60f498e2365d2b59892,362,Tapa Tapa Montera,madrid,13347,Tapas Restaurant,"Calle Montera, 47, 28013 Madrid Comunidad de Madrid",40.419646,-3.701871
-76,4b5f5c11f964a520f9b529e3,364,McDonald's,madrid,13031,Burger Joint,"Calle Montera, 47, 28013 Madrid Comunidad de Madrid",40.419822,-3.701873
-77,57756e14498e605edcad54fc,399,Salmon Guru,madrid,13009,Cocktail Bar,"Calle Echegaray, 21, 28014 Madrid Comunidad de Madrid",40.414875,-3.699518
-78,4b7eaa51f964a52008f82fe3,402,La Cabaña Argentina,madrid,13070,Argentinian Restaurant,"Ventura de la Vega, 10 (C. Carrera de San Jerónimo), 28014 Madrid Comunidad de Madrid",40.415775,-3.698985
-79,5ae9db515455b2002c7dde7e,406,Picalagartos Sky Bar,madrid,13013,Hotel Bar,"Calle Gran Vía, 21, 28013 Madrid Comunidad de Madrid",40.419866,-3.701165
-80,5bab7323cbcdee0039cdeac4,419,Five Guys Plaza Mayor,madrid,13031,Burger Joint,"Calle de Toledo, 19, 28005 Madrid Comunidad de Madrid",40.414212,-3.707299
-81,4b7eaafdf964a52027f82fe3,420,Arrocería Marina Ventura,madrid,13302,Mediterranean Restaurant,"Calle Ventura de la Vega, 13 (Carrera de San Jerónimo), 28014 Madrid Comunidad de Madrid",40.415435,-3.698899
-82,4b4e34f5f964a52042e526e3,429,Mesón del Champiñón,madrid,13347,Tapas Restaurant,"Cava de San Miguel, 17 (Calle de Toledo), 28005 Madrid Comunidad de Madrid",40.415086,-3.708156
-83,52b44116498e7400d783cb9d,447,Casino Gran Via,madrid,10008,Casino,"Gran Vía, 24, 28013 Madrid Comunidad de Madrid",40.420141,-3.700897
-84,588792e754073d35fb6f160f,448,Five Guys,madrid,13031,Burger Joint,"Calle Gran Via, 44 (C. Miguel Moya), 28013 Madrid Comunidad de Madrid",40.42052,-3.70556
-85,5499e15a498e9fa6ce68aee7,454,Darkom,madrid,13012,Hookah Bar,"Infante, 4, 28014 Madrid Comunidad de Madrid",40.414194,-3.699345
-86,4b4e3e50f964a52097e626e3,474,Restaurante Botín,madrid,13345,Spanish Restaurant,"Calle Cuchilleros, 17, 28005 Madrid Comunidad de Madrid",40.414054,-3.707978
-87,4adcda3af964a520263d21e3,477,El Asador de Aranda,madrid,13345,Spanish Restaurant,"Preciados, 44, 28013 Madrid Comunidad de Madrid",40.419871,-3.707594
-88,62c6c87fc5d05063683726d8,493,Honest Greens Gran Via 7,madrid,13302,Mediterranean Restaurant,"Calle Gran Vía, 7, 28013 Madrid Comunidad de Madrid",40.419319,-3.69887
-89,5dbc36bcd358eb0007abb621,493,Mexcalista,madrid,13303,Mexican Restaurant,"Calle del León, 5, 28014 Madrid Comunidad de Madrid",40.414489,-3.698532
-90,598b7d07ff190235c724d14d,494,Steakburger,madrid,13383,Steakhouse,"Calle Gran Vía, 55 (16), 28013 Madrid Comunidad de Madrid",40.419826,-3.699421
-91,5289cbc111d2b04c75f0824f,555,El Imparcial,madrid,13003,Bar,"Calle Duque de Alba, 4, 28012 Madrid Comunidad de Madrid",40.412012,-3.705853
-92,4b62df67f964a520a9562ae3,570,KFC,madrid,13055,Fried Chicken Joint,"Gran Vía, 52, 28013 Madrid Comunidad de Madrid",40.421135,-3.706985
-93,5650e689498e59806e43a30f,572,Ôven Mozzarella Bar,madrid,13236,Italian Restaurant,"Calle Gran Via, 6, 28013 Madrid Comunidad de Madrid",40.41936,-3.697781
-94,5e5ae0195bb4310008e9b847,595,Pum Pum Bakery,madrid,13034,Café,"Calle de la Esgrima, 1, 28012 Madrid Comunidad de Madrid",40.411355,-3.70391
-95,538ce5df498eb2165bface85,626,Yakitoro,madrid,13134,Comfort Food Restaurant,"Calle de la Reina, 41, 28004 Madrid Comunidad de Madrid",40.41972,-3.697322
-96,56ed93b0498eab944a13dd09,632,Casa Suecia,madrid,13065,Restaurant,"Calle del Marqués de Casa Riera, 4, 28014 Madrid Comunidad de Madrid",40.417876,-3.696262
-97,5cc58f1bfe3740002c581561,659,Zenith Brunch & Cocktails,madrid,13034,Café,"Calle de Valverde, 28, 28004 Madrid Comunidad de Madrid",40.422447,-3.701609
-98,4b9f5156f964a5205d1c37e3,664,Paraíso del Jamón,madrid,13347,Tapas Restaurant,"San Bernardo, 8, 28015 Madrid Comunidad de Madrid",40.421732,-3.707729
-99,4bc8f190762beee164ba3d38,666,Lusso Infantas,madrid,19014,Hotel,"Infantas, 29, 28004 Madrid Comunidad de Madrid",40.42012,-3.697001
-100,4adcda34f964a5202d3b21e3,678,Café de Oriente,madrid,13310,Modern European Restaurant,"Plaza de Oriente, 2, 28013 Madrid Comunidad de Madrid",40.417716,-3.711488
-101,4b717587f964a520bb472de3,712,Cervecería Cervantes,madrid,13003,Bar,"Plaza Jesus, 7, 28014 Madrid Comunidad de Madrid",40.41424,-3.695805
-102,4bbf8bbaf8219c74752ab010,715,El Sur,madrid,13065,Restaurant,"Torrecilla del Leal, 12, 28012 Madrid Comunidad de Madrid",40.411053,-3.69952
-103,4e7f34ce9adfa4c4ab2633db,763,Casa Amadeo los Caracoles,madrid,13347,Tapas Restaurant,"Plaza de Cascorro, 18, 28005 Madrid Comunidad de Madrid",40.410531,-3.707548
-104,5a00eb549deb7d58c962e66a,764,La Kama Cafe,madrid,13016,Lounge,"Calle de Augusto Figueroa, 17, 28004 Madrid Comunidad de Madrid",40.422818,-3.699462
-105,4bb18ee7f964a5207c993ce3,764,Meson el Jamon,madrid,13347,Tapas Restaurant,"Gran Via, 59, 28013 Madrid Comunidad de Madrid",40.422109,-3.709178
-106,59b3be7a9deb7d19c10eddc2,795,Pez Tortilla,madrid,13347,Tapas Restaurant,"Calle Cava Baja, 42, 28005 Madrid Comunidad de Madrid",40.411863,-3.710509
-107,4c7e2d2bd6543704ef66c2a2,107,Sfera,madrid,17043,Clothing Store,"Calle Preciados, 4, 28013 Madrid Comunidad de Madrid",40.417491,-3.704157
-108,4c715bef34443704dda2265f,140,Mango,madrid,17043,Clothing Store,"Preciados, 10, 28013 Madrid Comunidad de Madrid",40.417721,-3.704596
-109,4bf588c794b2a5930fc4abee,142,Lefties,madrid,17043,Clothing Store,"Carretas, 10, 28012 Madrid Comunidad de Madrid",40.415521,-3.703149
-110,4be2a0dc660ec92844cfc93b,174,Zara,madrid,17043,Clothing Store,"Calle Preciados, 18, 28013 Madrid Comunidad de Madrid",40.418288,-3.70474
-111,4bd87669dc4b952162347988,198,Maty,madrid,17043,Clothing Store,"Calle Maestro Victoria, 2, 28013 Madrid Comunidad de Madrid",40.417504,-3.705682
-112,5bcb36b151950e002ceb5024,219,The North Face Madrid,madrid,17043,Clothing Store,"Calle del Carmen, 14, 28013 Madrid Comunidad de Madrid",40.418562,-3.704471
-113,5f62be97d964e4228550c2ba,235,Hard Rock Cafe Rock Shop,madrid,17043,Clothing Store,"Calle de Preciados, 11, 28013 Madrid Comunidad de Madrid",40.418467,-3.705123
-114,4d3df929d625224b118d9efa,275,Oportunidades,madrid,17043,Clothing Store,"Calle Abada, 5, 28013 Madrid Comunidad de Madrid",40.419161,-3.703989
-115,4b9cd8b9f964a520777e36e3,339,Bershka,madrid,17043,Clothing Store,"Montera, 45, 28013 Madrid Comunidad de Madrid",40.420213,-3.702014
-116,4cd2fa7f21d94688da91ed90,353,Desigual Preciados,madrid,17043,Clothing Store,"Calle Preciados, 25, 28013 Madrid Comunidad de Madrid",40.41969,-3.705603
-117,5ce7c9cdf2554e002cb1cb50,394,La Casa Vertical,madrid,17043,Clothing Store,"Calle Imperial, 14, 28012 Madrid Comunidad de Madrid",40.414513,-3.707249
-118,4c2c64492219c928ee06a648,401,Mad-gran via,madrid,17043,Clothing Store,"Calle Gran Via, 30, 28013 Madrid Comunidad de Madrid",40.420357,-3.702643
-119,4b76c4c4f964a520ca5d2ee3,410,Zara,madrid,17043,Clothing Store,"Calle Gran Via, 34, 28013 Madrid Comunidad de Madrid",40.42037,-3.704169
-120,561ec540498ee9a64b6cd8c6,412,Primark,madrid,17043,Clothing Store,"Calle Gran Vía, 32, 28013 Madrid Comunidad de Madrid",40.420274,-3.703447
-121,4c65862c8e9120a1af63d564,431,H&M,madrid,17043,Clothing Store,28013 Madrid Comunidad de Madrid,40.420415,-3.705068
-122,4b571ceef964a520ec2628e3,438,Foot Locker,madrid,17043,Clothing Store,"Fuencarral, 4, 28004 Madrid Comunidad de Madrid",40.420296,-3.701443
-123,4b9b89def964a520e90d36e3,496,Calzedonia,madrid,17043,Clothing Store,"Calle de Fuencarral, 8, 28004 Madrid Comunidad de Madrid",40.420809,-3.701151
-124,5a74b0d6d4cc98116c99e32d,557,Cos,madrid,17043,Clothing Store,"Fuencarral, 16, 28004 Madrid Comunidad de Madrid",40.421388,-3.701213
-125,4bc4b92d4cdfc9b6d70e9921,722,La Antigua,madrid,17043,Clothing Store,"Calle Corredera Baja de San Pablo, 45, Madrid Comunidad de Madrid",40.423188,-3.702981
-126,b93a5998e0fc404129605565,750,Marihuana Bronca Total,madrid,17043,Clothing Store,"Plaza Cascorro, 6, 28005 Madrid Comunidad de Madrid",40.410527,-3.707167
-127,5613fbcf498ee2f426cec253,795,Morgan Surplus,madrid,17043,Clothing Store,"Calle de la Ruda, 3, 28005 Madrid Comunidad de Madrid",40.410292,-3.707572
-128,4d0e385abe6d6ea8332709b5,847,Salvador Bachiller,madrid,17043,Clothing Store,"Calle Gran Vía, 65, 28013 Madrid Comunidad de Madrid",40.422581,-3.709974
-129,4b76c65cf964a520495e2ee3,925,Mango,madrid,17043,Clothing Store,"Calle Fuencarral, 70, 28004 Madrid Comunidad de Madrid",40.4246,-3.700548
-130,4cf13ad1cc61a35d0590139e,966,Almirante Seis,madrid,17043,Clothing Store,"Calle Almirante, 6, 28004 Madrid Comunidad de Madrid",40.422591,-3.694964
-131,867e479642b84395c00d003e,969,Pinar,madrid,17043,Clothing Store,"Verónica, 15, 28014 Madrid Madrid",40.411849,-3.694056
-132,9243433023be4904583351c2,1012,Monoplaza,madrid,17043,Clothing Store,"Trav. Belén, 3, 28004 Madrid Madrid",40.424114,-3.696619
-133,4be2ff6cd27a20a1adf1905b,1022,Chopper Monster,madrid,17043,Clothing Store,"Corredera Alta de San Pablo, 21, 28004 Madrid Comunidad de Madrid",40.425818,-3.701873
-134,50353a62e4b07119fc929dc3,1342,Superdry,madrid,17043,Clothing Store,"Calle Serrano Nº 3, 28001 Madrid Comunidad de Madrid",40.421068,-3.688869
-135,4c9e0463604c76b0bf12847b,1464,Carolina Herrera,madrid,17043,Clothing Store,"Calle Serrano, 16, 28001 Madrid Comunidad de Madrid",40.422645,-3.688127
-136,4d56c11a611aa35dfc214539,1518,Bimba & Lola,madrid,17043,Clothing Store,"Calle de Serrano, 22, 28001 Madrid Comunidad de Madrid",40.423549,-3.687976
-137,4adcda3ff964a5206d3e21e3,1586,Purificación García,madrid,17043,Clothing Store,"Serrano, 28, 28001 Madrid Comunidad de Madrid",40.424453,-3.687825
-138,4adcda3ef964a520403e21e3,1615,Hackett Lim Spain,madrid,17043,Clothing Store,"Calle Jorge Juan, 7 (C. Claudio Coello), 28001 Madrid Comunidad de Madrid",40.424004,-3.686865
-139,4e807d557ee65e75278b40a8,1660,Just One,madrid,17043,Clothing Store,"Calle Villanueva, 28, 28001 Madrid Comunidad de Madrid",40.422282,-3.685371
-140,5da99d285d80770007fa8b9f,1664,Uniqlo,madrid,17043,Clothing Store,"Goya, 6, 28001 Madrid Comunidad de Madrid",40.425013,-3.687206
-141,533fd51e498efacd60fd17f2,1669,Nike Store Serrano,madrid,17043,Clothing Store,"Calle de Serrano, 19, 28001 Madrid Comunidad de Madrid",40.425899,-3.68798
-142,4c2f1f9316adc928e5fcbc9c,1671,Gant,madrid,17043,Clothing Store,"Calle Jorge Juan, 12, 28001 Madrid Madrid",40.423708,-3.686072
-143,50ec5e1ae4b0c95e48149163,1764,Silbon,madrid,17043,Clothing Store,"Velázquez, 13, Madrid Comunidad de Madrid",40.42246,-3.684148
-144,5408acc2498eff448a16df15,1803,Massimo Dutti,madrid,17043,Clothing Store,"Calle Serrano, 48, 28001 Madrid Comunidad de Madrid",40.427176,-3.687289
-145,547fa5fd498e402beb0c13b5,1811,Other Stories,madrid,17043,Clothing Store,"Calle de Hermosilla, 15 (Claudio Coello), 28001 Madrid Comunidad de Madrid",40.426578,-3.686546
-146,4c261a24f1272d7f86df85c5,1811,Pronovias,madrid,17041,Bridal Store,"Serrano, 31 (Ayala), 28001 Madrid Comunidad de Madrid",40.427593,-3.687649
-147,8795f2063cb64e04bfdf69e6,1849,Zara,madrid,17043,Clothing Store,"Paseo de la Florida, s/n, 28008 Madrid Madrid",40.423099,-3.723768
-148,4bf10f1e21072d7f7d8b208b,1855,Salvador Bachiller,madrid,17043,Clothing Store,"Calle Velázquez, 24, 28001 Madrid Comunidad de Madrid",40.42413,-3.68398
-149,4b9bd80cf964a5203c2c36e3,1890,Zara,madrid,17043,Clothing Store,"C. Alberto Aguilera, Madrid Comunidad de Madrid",40.430803,-3.716082
-150,c618cc4bdc3f4841041c7bb5,1938,Agatha,madrid,17043,Clothing Store,"Calle Princesa, 56, 28008 Madrid Comunidad de Madrid",40.43117,-3.716387
-151,4b2d01b7f964a52035cc24e3,1943,H&M,madrid,17043,Clothing Store,"Calle de Velázquez 33-35, 28006 Madrid Comunidad de Madrid",40.4258,-3.683811
-152,58e24ed458c4d11a7af5475b,1950,Mango,madrid,17043,Clothing Store,"Calle de Serrano, 60, 28001 Madrid Comunidad de Madrid",40.428869,-3.686958
-153,5a82808dfd9d733314d4a502,13,Natalia Almagro,madrid,11006,Audiovisual Service,"Mayor, 6, 28013 Madrid Comunidad de Madrid",40.416561,-3.705697
-154,21a97711630d4ba6a9948de9,252,Plataforma de Nuevos Realizadores y Tecnicos Audiovisuales,madrid,11006,Audiovisual Service,"Núñez de Arce, 11, 28012 Madrid Madrid",40.415404,-3.701132
-155,b36562e4bd6b4980fe3f911d,362,Cartago Films,madrid,11006,Audiovisual Service,"Calle de Gran Via, 31, 28013 Madrid Madrid",40.419964,-3.703727
-156,f0dce5b2d1504e5828bf2372,368,Colose Producciones,madrid,11006,Audiovisual Service,"Calle Conde de Romanones, 5, 28012 Madrid Comunidad de Madrid",40.413548,-3.704593
-157,c9ddb1be81ba481738dbc8f0,394,Festival Films,madrid,11006,Audiovisual Service,"Arlabán, 7, 28014 Madrid Madrid",40.417132,-3.698949
-158,d54b7aba496b4aa2667387f9,413,Solita Films,madrid,11006,Audiovisual Service,"Calle Trujillos, 7, 28013 Madrid Comunidad de Madrid",40.418877,-3.707554
-159,96e30ff053114d2d45f31d04,542,Gameworks,madrid,11006,Audiovisual Service,"Calle Silva, 6, 28013 Madrid Madrid",40.420599,-3.707441
-160,7f6fa76f07324861f6050416,623,Avalon Productions,madrid,11006,Audiovisual Service,"Plaza Cordón, 2, 28005 Madrid Comunidad de Madrid",40.414312,-3.710243
-161,8ea1a6a72130446155db816a,655,Luz Internacional Films,madrid,11006,Audiovisual Service,"Calle Marques de Leganes, 3, 28004 Madrid Madrid",40.422027,-3.706916
-162,c16316c2b90844dcc87d047b,671,La Huella Efectos Digitales,madrid,11006,Audiovisual Service,"Mques. Cubas, 6, 28014 Madrid Madrid",40.417255,-3.695682
-163,005644906f5d4e452a5e406c,686,Abaco Multimedia,madrid,11006,Audiovisual Service,"Calle Hortaleza, 42, 28004 Madrid Madrid",40.422091,-3.699615
-164,82b5d57c8efd4de9d5ff2f1f,733,Ficciona Media,madrid,11006,Audiovisual Service,"Calle Gran Via, 62, 28013 Madrid Madrid",40.422153,-3.70847
-165,96426aeffc6c4ac603976837,737,Dato Sur,madrid,11006,Audiovisual Service,"Pez, 12, 28004 Madrid Madrid",40.423267,-3.704862
-166,3757df85aca742373bb56e57,858,14pies Audiovisual,madrid,11006,Audiovisual Service,"Calle Augusto Figueroa, 47, 28004 Madrid Madrid",40.4221,-3.696319
-167,9957e9415b3844726675b7af,861,El Opio del Pueblo,madrid,11006,Audiovisual Service,"Olivar, 47, 28012 Madrid Madrid",40.409145,-3.701319
-168,ef4b63f15a964e00f2af9905,935,Com 4,madrid,11006,Audiovisual Service,"Avenida de Gran Via, 88, 28013 Madrid Madrid",40.423115,-3.710745
-169,76f57d12880f41320942e209,982,14 Pies Audiovisual,madrid,11006,Audiovisual Service,"Calle Piamonte, 10, 28004 Madrid Madrid",40.422946,-3.69535
-170,e5e8fd6c7ca6470e897fc61d,994,Struendo Film Maker's,madrid,11006,Audiovisual Service,"Calle Don Pedro, 7, 28005 Madrid Madrid",40.411533,-3.713174
-171,6d1df448730c49d81fcfef7e,1027,Alta Films,madrid,10043,Theater,"Cta. San Vicente, 4, 28008 Madrid Comunidad de Madrid",40.421733,-3.713777
-172,793e5f5678c2473aa8ef10e8,1039,Reposado Producciones Cinematograficas,madrid,11006,Audiovisual Service,"Calle Santa Isabel, 48, 28012 Madrid Madrid",40.409327,-3.696038
-173,c97debda542e473924b4a7cf,1039,Videokine,madrid,11006,Audiovisual Service,"Gran Vía, s/n, 28013 Madrid Madrid",40.424049,-3.711193
-174,9040e3d7e23149b5121c81fc,1081,Koncept Company,madrid,11006,Audiovisual Service,"Alcalá, 57, 28014 Madrid Madrid",40.419808,-3.691467
-175,cb30e5154253477141d9d8f0,1104,Marduk Films,madrid,11006,Audiovisual Service,"Toledo, 94, 28005 Madrid Madrid",40.408459,-3.710871
-176,c9eb2abbcf764137430af906,1149,Creaciones la Moderna,madrid,11006,Audiovisual Service,"Dr. Fourquet, 27, 28012 Madrid Comunidad de Madrid",40.407246,-3.698216
-177,f8aae8e370c0430482ee7b2c,1172,Animal Maker,madrid,11006,Audiovisual Service,"Larra, 1, 28004 Madrid Madrid",40.426908,-3.700035
-178,1be4c1ad52094e623825d3dc,1173,La Caña Brothers,madrid,11006,Audiovisual Service,"Princesa, 3 Bis, 28008 Madrid Comunidad de Madrid",40.424876,-3.712376
-179,f62a0b6bfb7146076b80fed6,1188,Nickel Odeon Dos,madrid,11006,Audiovisual Service,"Calle Barbara de Braganza, 12, 28004 Madrid Madrid",40.423299,-3.692522
-180,f279e544a31e4bf72ee4b7ea,1212,Cambalache de Teatro Aie,madrid,11006,Audiovisual Service,"Calle Alcala, 58, Madrid Madrid",40.419643,-3.689776
-181,5fa77945337443a366aa46c9,1216,Ion Visual,madrid,11006,Audiovisual Service,"Calle Princesa, 3, 28008 Madrid Comunidad de Madrid",40.424611,-3.712182
-182,437a3a5c61354bc1466f0d97,1288,Conflikto Films,madrid,11006,Audiovisual Service,"P.º Rey, 4, 28008 Madrid Madrid",40.420662,-3.717904
-183,006986d708604f4e5639f9a3,1295,Vendaval Producciones,madrid,11006,Audiovisual Service,"Calle Monteleon, 18, 28004 Madrid Madrid",40.42832,-3.704876
-184,2745b8e64f1446ec1261b6b9,1400,Soul,madrid,11006,Audiovisual Service,"Génova, 7, 28004 Madrid Comunidad de Madrid",40.427367,-3.694865
-185,59413ca7a490432c2f2db341,1437,Stoamedia,madrid,11006,Audiovisual Service,"Eguilaz, 9, 28010 Madrid Madrid",40.429453,-3.700723
-186,88a69152790a4709fc18661c,1455,Flycasemedia,madrid,11006,Audiovisual Service,"Calle Moreno Nieto, 10, 28005 Madrid Madrid",40.412166,-3.71972
-187,75d942c4742a4886e67c02c2,1501,Arabel Media,madrid,11006,Audiovisual Service,"Evaristo San Miguel, 22, 28008 Madrid Madrid",40.426054,-3.716398
-188,5010475be4b05969b7059918,1521,Fazeta,madrid,11006,Audiovisual Service,"Ronda de Toledo, 16, 28005 Madrid Comunidad de Madrid",40.405125,-3.707529
-189,1c938048896b40295ed7ab25,1574,I-Real Animation Studios,madrid,11006,Audiovisual Service,"Calle Vallehermoso, 3, 28015 Madrid Madrid",40.430229,-3.709126
-190,1e8ae5dd2b49458c091a305b,1607,Producciones Ruidher,madrid,11006,Audiovisual Service,"Calle Murcia, 20, 28045 Madrid Madrid",40.405046,-3.692331
-191,07b04775caf148b848968fc4,1686,Da Vinci Creatividad Audiovisual y Diseño Grafico,madrid,11006,Audiovisual Service,"Po. Castellana, 8, 28046 Madrid Madrid",40.427344,-3.689362
-192,4d9ec2249b91a1cd36c35cc0,1694,Turner Broadcasting System España,madrid,11006,Audiovisual Service,"Serrano, 38, 28001 Madrid Comunidad de Madrid",40.425783,-3.68757
-193,4e2fc6e4ae60231c03305a38,1756,Blueberry Studios,madrid,11006,Audiovisual Service,"Plaza del Conde del Valle de Suchil, 19, 28015 Madrid Comunidad de Madrid",40.432238,-3.707437
-194,4e5629c6b61cabc6beb0bf02,1779,Continental Producciones,madrid,11006,Audiovisual Service,"Ercilla, 46, 28005 Madrid Comunidad de Madrid",40.400936,-3.701181
-195,e41e7679eea14d0e5b71b883,1798,Atomis Media,madrid,11006,Audiovisual Service,"Calle Serrano, 31, 28001 Madrid Madrid",40.427468,-3.687702
-196,01ebf96a7a1544eae0b0ea38,1810,Yien Zhuoya,madrid,11006,Audiovisual Service,"Pase Ermita del Santo, 20, 28011 Madrid Madrid",40.410626,-3.723431
-197,55de1f22f4474f08380fcda9,1827,Plataforma de Producción,madrid,11006,Audiovisual Service,"Núñez de Balboa, 5, 28001 Madrid Madrid",40.422074,-3.683162
-198,c4156a35518d4fa4603b82ad,1838,Blackout Producciones Audiovisuales,madrid,11006,Audiovisual Service,"General Lacy, 24, 28045 Madrid Comunidad de Madrid",40.403097,-3.690779
-199,8129443662db449c6aefe741,1907,Pictures That Move,madrid,11006,Audiovisual Service,"Glta. Quevedo, 8, 28015 Madrid Comunidad de Madrid",40.433868,-3.703917
-200,a4ffa6b34bc740cbe1bb38a0,2314,Agencia Fashion Face Actores & Modelos publicitarios,madrid,11001,Advertising Agency,"Doctor Fourquet 17 -Bajos - Local 6, 28012 Madrid Comunidad de Madrid",40.407561,-3.696858
+0,5a82808dfd9d733314d4a502,13,Natalia Almagro,madrid,11006,Audiovisual Service,"Mayor, 6, 28013 Madrid Comunidad de Madrid",40.416561,-3.705697
+1,21a97711630d4ba6a9948de9,252,Plataforma de Nuevos Realizadores y Tecnicos Audiovisuales,madrid,11006,Audiovisual Service,"Núñez de Arce, 11, 28012 Madrid Madrid",40.415404,-3.701132
+2,b36562e4bd6b4980fe3f911d,362,Cartago Films,madrid,11006,Audiovisual Service,"Calle de Gran Via, 31, 28013 Madrid Madrid",40.419964,-3.703727
+3,f0dce5b2d1504e5828bf2372,368,Colose Producciones,madrid,11006,Audiovisual Service,"Calle Conde de Romanones, 5, 28012 Madrid Comunidad de Madrid",40.413548,-3.704593
+4,c9ddb1be81ba481738dbc8f0,394,Festival Films,madrid,11006,Audiovisual Service,"Arlabán, 7, 28014 Madrid Madrid",40.417132,-3.698949
+5,d54b7aba496b4aa2667387f9,413,Solita Films,madrid,11006,Audiovisual Service,"Calle Trujillos, 7, 28013 Madrid Comunidad de Madrid",40.418877,-3.707554
+6,96e30ff053114d2d45f31d04,542,Gameworks,madrid,11006,Audiovisual Service,"Calle Silva, 6, 28013 Madrid Madrid",40.420599,-3.707441
+7,7f6fa76f07324861f6050416,623,Avalon Productions,madrid,11006,Audiovisual Service,"Plaza Cordón, 2, 28005 Madrid Comunidad de Madrid",40.414312,-3.710243
+8,8ea1a6a72130446155db816a,655,Luz Internacional Films,madrid,11006,Audiovisual Service,"Calle Marques de Leganes, 3, 28004 Madrid Madrid",40.422027,-3.706916
+9,c16316c2b90844dcc87d047b,671,La Huella Efectos Digitales,madrid,11006,Audiovisual Service,"Mques. Cubas, 6, 28014 Madrid Madrid",40.417255,-3.695682
+10,005644906f5d4e452a5e406c,686,Abaco Multimedia,madrid,11006,Audiovisual Service,"Calle Hortaleza, 42, 28004 Madrid Madrid",40.422091,-3.699615
+11,82b5d57c8efd4de9d5ff2f1f,733,Ficciona Media,madrid,11006,Audiovisual Service,"Calle Gran Via, 62, 28013 Madrid Madrid",40.422153,-3.70847
+12,96426aeffc6c4ac603976837,737,Dato Sur,madrid,11006,Audiovisual Service,"Pez, 12, 28004 Madrid Madrid",40.423267,-3.704862
+13,3757df85aca742373bb56e57,858,14pies Audiovisual,madrid,11006,Audiovisual Service,"Calle Augusto Figueroa, 47, 28004 Madrid Madrid",40.4221,-3.696319
+14,9957e9415b3844726675b7af,861,El Opio del Pueblo,madrid,11006,Audiovisual Service,"Olivar, 47, 28012 Madrid Madrid",40.409145,-3.701319
+15,ef4b63f15a964e00f2af9905,935,Com 4,madrid,11006,Audiovisual Service,"Avenida de Gran Via, 88, 28013 Madrid Madrid",40.423115,-3.710745
+16,76f57d12880f41320942e209,982,14 Pies Audiovisual,madrid,11006,Audiovisual Service,"Calle Piamonte, 10, 28004 Madrid Madrid",40.422946,-3.69535
+17,e5e8fd6c7ca6470e897fc61d,994,Struendo Film Maker's,madrid,11006,Audiovisual Service,"Calle Don Pedro, 7, 28005 Madrid Madrid",40.411533,-3.713174
+18,6d1df448730c49d81fcfef7e,1027,Alta Films,madrid,10043,Theater,"Cta. San Vicente, 4, 28008 Madrid Comunidad de Madrid",40.421733,-3.713777
+19,793e5f5678c2473aa8ef10e8,1039,Reposado Producciones Cinematograficas,madrid,11006,Audiovisual Service,"Calle Santa Isabel, 48, 28012 Madrid Madrid",40.409327,-3.696038
+20,c97debda542e473924b4a7cf,1039,Videokine,madrid,11006,Audiovisual Service,"Gran Vía, s/n, 28013 Madrid Madrid",40.424049,-3.711193
+21,9040e3d7e23149b5121c81fc,1081,Koncept Company,madrid,11006,Audiovisual Service,"Alcalá, 57, 28014 Madrid Madrid",40.419808,-3.691467
+22,cb30e5154253477141d9d8f0,1104,Marduk Films,madrid,11006,Audiovisual Service,"Toledo, 94, 28005 Madrid Madrid",40.408459,-3.710871
+23,c9eb2abbcf764137430af906,1149,Creaciones la Moderna,madrid,11006,Audiovisual Service,"Dr. Fourquet, 27, 28012 Madrid Comunidad de Madrid",40.407246,-3.698216
+24,f8aae8e370c0430482ee7b2c,1172,Animal Maker,madrid,11006,Audiovisual Service,"Larra, 1, 28004 Madrid Madrid",40.426908,-3.700035
+25,1be4c1ad52094e623825d3dc,1173,La Caña Brothers,madrid,11006,Audiovisual Service,"Princesa, 3 Bis, 28008 Madrid Comunidad de Madrid",40.424876,-3.712376
+26,f62a0b6bfb7146076b80fed6,1188,Nickel Odeon Dos,madrid,11006,Audiovisual Service,"Calle Barbara de Braganza, 12, 28004 Madrid Madrid",40.423299,-3.692522
+27,f279e544a31e4bf72ee4b7ea,1212,Cambalache de Teatro Aie,madrid,11006,Audiovisual Service,"Calle Alcala, 58, Madrid Madrid",40.419643,-3.689776
+28,5fa77945337443a366aa46c9,1216,Ion Visual,madrid,11006,Audiovisual Service,"Calle Princesa, 3, 28008 Madrid Comunidad de Madrid",40.424611,-3.712182
+29,437a3a5c61354bc1466f0d97,1288,Conflikto Films,madrid,11006,Audiovisual Service,"P.º Rey, 4, 28008 Madrid Madrid",40.420662,-3.717904
+30,006986d708604f4e5639f9a3,1295,Vendaval Producciones,madrid,11006,Audiovisual Service,"Calle Monteleon, 18, 28004 Madrid Madrid",40.42832,-3.704876
+31,2745b8e64f1446ec1261b6b9,1400,Soul,madrid,11006,Audiovisual Service,"Génova, 7, 28004 Madrid Comunidad de Madrid",40.427367,-3.694865
+32,59413ca7a490432c2f2db341,1437,Stoamedia,madrid,11006,Audiovisual Service,"Eguilaz, 9, 28010 Madrid Madrid",40.429453,-3.700723
+33,88a69152790a4709fc18661c,1455,Flycasemedia,madrid,11006,Audiovisual Service,"Calle Moreno Nieto, 10, 28005 Madrid Madrid",40.412166,-3.71972
+34,75d942c4742a4886e67c02c2,1501,Arabel Media,madrid,11006,Audiovisual Service,"Evaristo San Miguel, 22, 28008 Madrid Madrid",40.426054,-3.716398
+35,5010475be4b05969b7059918,1521,Fazeta,madrid,11006,Audiovisual Service,"Ronda de Toledo, 16, 28005 Madrid Comunidad de Madrid",40.405125,-3.707529
+36,1c938048896b40295ed7ab25,1574,I-Real Animation Studios,madrid,11006,Audiovisual Service,"Calle Vallehermoso, 3, 28015 Madrid Madrid",40.430229,-3.709126
+37,1e8ae5dd2b49458c091a305b,1607,Producciones Ruidher,madrid,11006,Audiovisual Service,"Calle Murcia, 20, 28045 Madrid Madrid",40.405046,-3.692331
+38,07b04775caf148b848968fc4,1686,Da Vinci Creatividad Audiovisual y Diseño Grafico,madrid,11006,Audiovisual Service,"Po. Castellana, 8, 28046 Madrid Madrid",40.427344,-3.689362
+39,4d9ec2249b91a1cd36c35cc0,1694,Turner Broadcasting System España,madrid,11006,Audiovisual Service,"Serrano, 38, 28001 Madrid Comunidad de Madrid",40.425783,-3.68757
+40,4e2fc6e4ae60231c03305a38,1756,Blueberry Studios,madrid,11006,Audiovisual Service,"Plaza del Conde del Valle de Suchil, 19, 28015 Madrid Comunidad de Madrid",40.432238,-3.707437
+41,4e5629c6b61cabc6beb0bf02,1779,Continental Producciones,madrid,11006,Audiovisual Service,"Ercilla, 46, 28005 Madrid Comunidad de Madrid",40.400936,-3.701181
+42,e41e7679eea14d0e5b71b883,1798,Atomis Media,madrid,11006,Audiovisual Service,"Calle Serrano, 31, 28001 Madrid Madrid",40.427468,-3.687702
+43,01ebf96a7a1544eae0b0ea38,1810,Yien Zhuoya,madrid,11006,Audiovisual Service,"Pase Ermita del Santo, 20, 28011 Madrid Madrid",40.410626,-3.723431
+44,55de1f22f4474f08380fcda9,1827,Plataforma de Producción,madrid,11006,Audiovisual Service,"Núñez de Balboa, 5, 28001 Madrid Madrid",40.422074,-3.683162
+45,c4156a35518d4fa4603b82ad,1838,Blackout Producciones Audiovisuales,madrid,11006,Audiovisual Service,"General Lacy, 24, 28045 Madrid Comunidad de Madrid",40.403097,-3.690779
+46,8129443662db449c6aefe741,1907,Pictures That Move,madrid,11006,Audiovisual Service,"Glta. Quevedo, 8, 28015 Madrid Comunidad de Madrid",40.433868,-3.703917
+47,a4ffa6b34bc740cbe1bb38a0,2314,Agencia Fashion Face Actores & Modelos publicitarios,madrid,11001,Advertising Agency,"Doctor Fourquet 17 -Bajos - Local 6, 28012 Madrid Comunidad de Madrid",40.407561,-3.696858
+48,4c7e2d2bd6543704ef66c2a2,107,Sfera,madrid,17043,Clothing Store,"Calle Preciados, 4, 28013 Madrid Comunidad de Madrid",40.417491,-3.704157
+49,4c715bef34443704dda2265f,140,Mango,madrid,17043,Clothing Store,"Preciados, 10, 28013 Madrid Comunidad de Madrid",40.417721,-3.704596
+50,4bf588c794b2a5930fc4abee,142,Lefties,madrid,17043,Clothing Store,"Carretas, 10, 28012 Madrid Comunidad de Madrid",40.415521,-3.703149
+51,4be2a0dc660ec92844cfc93b,174,Zara,madrid,17043,Clothing Store,"Calle Preciados, 18, 28013 Madrid Comunidad de Madrid",40.418288,-3.70474
+52,4bd87669dc4b952162347988,198,Maty,madrid,17043,Clothing Store,"Calle Maestro Victoria, 2, 28013 Madrid Comunidad de Madrid",40.417504,-3.705682
+53,5bcb36b151950e002ceb5024,219,The North Face Madrid,madrid,17043,Clothing Store,"Calle del Carmen, 14, 28013 Madrid Comunidad de Madrid",40.418562,-3.704471
+54,5f62be97d964e4228550c2ba,235,Hard Rock Cafe Rock Shop,madrid,17043,Clothing Store,"Calle de Preciados, 11, 28013 Madrid Comunidad de Madrid",40.418467,-3.705123
+55,4d3df929d625224b118d9efa,275,Oportunidades,madrid,17043,Clothing Store,"Calle Abada, 5, 28013 Madrid Comunidad de Madrid",40.419161,-3.703989
+56,4b9cd8b9f964a520777e36e3,339,Bershka,madrid,17043,Clothing Store,"Montera, 45, 28013 Madrid Comunidad de Madrid",40.420213,-3.702014
+57,4cd2fa7f21d94688da91ed90,353,Desigual Preciados,madrid,17043,Clothing Store,"Calle Preciados, 25, 28013 Madrid Comunidad de Madrid",40.41969,-3.705603
+58,5ce7c9cdf2554e002cb1cb50,394,La Casa Vertical,madrid,17043,Clothing Store,"Calle Imperial, 14, 28012 Madrid Comunidad de Madrid",40.414513,-3.707249
+59,4c2c64492219c928ee06a648,401,Mad-gran via,madrid,17043,Clothing Store,"Calle Gran Via, 30, 28013 Madrid Comunidad de Madrid",40.420357,-3.702643
+60,4b76c4c4f964a520ca5d2ee3,410,Zara,madrid,17043,Clothing Store,"Calle Gran Via, 34, 28013 Madrid Comunidad de Madrid",40.42037,-3.704169
+61,561ec540498ee9a64b6cd8c6,412,Primark,madrid,17043,Clothing Store,"Calle Gran Vía, 32, 28013 Madrid Comunidad de Madrid",40.420274,-3.703447
+62,4c65862c8e9120a1af63d564,431,H&M,madrid,17043,Clothing Store,28013 Madrid Comunidad de Madrid,40.420415,-3.705068
+63,4b571ceef964a520ec2628e3,438,Foot Locker,madrid,17043,Clothing Store,"Fuencarral, 4, 28004 Madrid Comunidad de Madrid",40.420296,-3.701443
+64,4b9b89def964a520e90d36e3,496,Calzedonia,madrid,17043,Clothing Store,"Calle de Fuencarral, 8, 28004 Madrid Comunidad de Madrid",40.420809,-3.701151
+65,5a74b0d6d4cc98116c99e32d,557,Cos,madrid,17043,Clothing Store,"Fuencarral, 16, 28004 Madrid Comunidad de Madrid",40.421388,-3.701213
+66,4bc4b92d4cdfc9b6d70e9921,722,La Antigua,madrid,17043,Clothing Store,"Calle Corredera Baja de San Pablo, 45, Madrid Comunidad de Madrid",40.423188,-3.702981
+67,b93a5998e0fc404129605565,750,Marihuana Bronca Total,madrid,17043,Clothing Store,"Plaza Cascorro, 6, 28005 Madrid Comunidad de Madrid",40.410527,-3.707167
+68,5613fbcf498ee2f426cec253,795,Morgan Surplus,madrid,17043,Clothing Store,"Calle de la Ruda, 3, 28005 Madrid Comunidad de Madrid",40.410292,-3.707572
+69,4d0e385abe6d6ea8332709b5,847,Salvador Bachiller,madrid,17043,Clothing Store,"Calle Gran Vía, 65, 28013 Madrid Comunidad de Madrid",40.422581,-3.709974
+70,4b76c65cf964a520495e2ee3,925,Mango,madrid,17043,Clothing Store,"Calle Fuencarral, 70, 28004 Madrid Comunidad de Madrid",40.4246,-3.700548
+71,4cf13ad1cc61a35d0590139e,966,Almirante Seis,madrid,17043,Clothing Store,"Calle Almirante, 6, 28004 Madrid Comunidad de Madrid",40.422591,-3.694964
+72,867e479642b84395c00d003e,969,Pinar,madrid,17043,Clothing Store,"Verónica, 15, 28014 Madrid Madrid",40.411849,-3.694056
+73,9243433023be4904583351c2,1012,Monoplaza,madrid,17043,Clothing Store,"Trav. Belén, 3, 28004 Madrid Madrid",40.424114,-3.696619
+74,4be2ff6cd27a20a1adf1905b,1022,Chopper Monster,madrid,17043,Clothing Store,"Corredera Alta de San Pablo, 21, 28004 Madrid Comunidad de Madrid",40.425818,-3.701873
+75,50353a62e4b07119fc929dc3,1342,Superdry,madrid,17043,Clothing Store,"Calle Serrano Nº 3, 28001 Madrid Comunidad de Madrid",40.421068,-3.688869
+76,4c9e0463604c76b0bf12847b,1464,Carolina Herrera,madrid,17043,Clothing Store,"Calle Serrano, 16, 28001 Madrid Comunidad de Madrid",40.422645,-3.688127
+77,4d56c11a611aa35dfc214539,1518,Bimba & Lola,madrid,17043,Clothing Store,"Calle de Serrano, 22, 28001 Madrid Comunidad de Madrid",40.423549,-3.687976
+78,4adcda3ff964a5206d3e21e3,1586,Purificación García,madrid,17043,Clothing Store,"Serrano, 28, 28001 Madrid Comunidad de Madrid",40.424453,-3.687825
+79,4adcda3ef964a520403e21e3,1615,Hackett Lim Spain,madrid,17043,Clothing Store,"Calle Jorge Juan, 7 (C. Claudio Coello), 28001 Madrid Comunidad de Madrid",40.424004,-3.686865
+80,4e807d557ee65e75278b40a8,1660,Just One,madrid,17043,Clothing Store,"Calle Villanueva, 28, 28001 Madrid Comunidad de Madrid",40.422282,-3.685371
+81,5da99d285d80770007fa8b9f,1664,Uniqlo,madrid,17043,Clothing Store,"Goya, 6, 28001 Madrid Comunidad de Madrid",40.425013,-3.687206
+82,533fd51e498efacd60fd17f2,1669,Nike Store Serrano,madrid,17043,Clothing Store,"Calle de Serrano, 19, 28001 Madrid Comunidad de Madrid",40.425899,-3.68798
+83,4c2f1f9316adc928e5fcbc9c,1671,Gant,madrid,17043,Clothing Store,"Calle Jorge Juan, 12, 28001 Madrid Madrid",40.423708,-3.686072
+84,50ec5e1ae4b0c95e48149163,1764,Silbon,madrid,17043,Clothing Store,"Velázquez, 13, Madrid Comunidad de Madrid",40.42246,-3.684148
+85,5408acc2498eff448a16df15,1803,Massimo Dutti,madrid,17043,Clothing Store,"Calle Serrano, 48, 28001 Madrid Comunidad de Madrid",40.427176,-3.687289
+86,547fa5fd498e402beb0c13b5,1811,Other Stories,madrid,17043,Clothing Store,"Calle de Hermosilla, 15 (Claudio Coello), 28001 Madrid Comunidad de Madrid",40.426578,-3.686546
+87,4c261a24f1272d7f86df85c5,1811,Pronovias,madrid,17041,Bridal Store,"Serrano, 31 (Ayala), 28001 Madrid Comunidad de Madrid",40.427593,-3.687649
+88,8795f2063cb64e04bfdf69e6,1849,Zara,madrid,17043,Clothing Store,"Paseo de la Florida, s/n, 28008 Madrid Madrid",40.423099,-3.723768
+89,4bf10f1e21072d7f7d8b208b,1855,Salvador Bachiller,madrid,17043,Clothing Store,"Calle Velázquez, 24, 28001 Madrid Comunidad de Madrid",40.42413,-3.68398
+90,4b9bd80cf964a5203c2c36e3,1890,Zara,madrid,17043,Clothing Store,"C. Alberto Aguilera, Madrid Comunidad de Madrid",40.430803,-3.716082
+91,c618cc4bdc3f4841041c7bb5,1938,Agatha,madrid,17043,Clothing Store,"Calle Princesa, 56, 28008 Madrid Comunidad de Madrid",40.43117,-3.716387
+92,4b2d01b7f964a52035cc24e3,1943,H&M,madrid,17043,Clothing Store,"Calle de Velázquez 33-35, 28006 Madrid Comunidad de Madrid",40.4258,-3.683811
+93,58e24ed458c4d11a7af5475b,1950,Mango,madrid,17043,Clothing Store,"Calle de Serrano, 60, 28001 Madrid Comunidad de Madrid",40.428869,-3.686958
+94,4b8818d5f964a5208cdf31e3,96,La Mallorquina,madrid,13002,Bakery,"Calle Mayor, 2 (Pl. de la Puerta del Sol), 28013 Madrid Comunidad de Madrid",40.416629,-3.704826
+95,5478dde0498eab68d4d6423f,111,Rosi la Loca,madrid,13347,Tapas Restaurant,"Calle de Cádiz, 4, 28012 Madrid Comunidad de Madrid",40.415846,-3.702936
+96,4bf6fcac5efe2d7fa8266834,119,McDonald's,madrid,13031,Burger Joint,"Calle Esparteros, 1, 28012 Madrid Comunidad de Madrid",40.416379,-3.704932
+97,5037d42de4b05af8cbfb9ed0,127,C & Tapas,madrid,13347,Tapas Restaurant,"Calle de la Montera, 10, 28013 Madrid Comunidad de Madrid",40.417642,-3.702715
+98,5342b72f498e3fa654a0c98c,161,La Carmela,madrid,13345,Spanish Restaurant,"Calle de la Victoria, 4, 28012 Madrid Comunidad de Madrid",40.416251,-3.70177
+99,4b6b27c6f964a5204ff62be3,168,El Gaucho,madrid,13070,Argentinian Restaurant,"Calle Tetuán, 34, 28013 Madrid Comunidad de Madrid",40.418173,-3.703104
+100,4c09679d7e3fc928edeaf182,181,Museo del Jamón,madrid,13347,Tapas Restaurant,"Calle Mayor, 7, 28013 Madrid Comunidad de Madrid",40.41631983610847,-3.7056621909141536
+101,4adcda34f964a520383b21e3,183,Lhardy,madrid,13039,Deli,"Carrera de San Jerónimo, 8, 28014 Madrid Comunidad de Madrid",40.41656939854872,-3.7013894319534297
+102,5603f5c6498efc1d2f304241,201,Cafe Carmen 17,madrid,13027,Bistro,"Calle del Carmen, 17, 28013 Madrid Comunidad de Madrid",40.418386,-3.704469
+103,4bc1de4bb492d13ad487a660,202,Ciudad de Tui,madrid,13347,Tapas Restaurant,"Montera, 22, 28013 Madrid Comunidad de Madrid",40.41828,-3.70237
+104,62701d4c260adc31764e5fd5,229,Oroya,madrid,13322,Peruvian Restaurant,"Plaza de Celenque, 2, Madrid Comunidad de Madrid",40.417632,-3.706011
+105,62339f0021287d6fb5191149,251,Jeronimo,madrid,13303,Mexican Restaurant,"Plaza de Celenque, 2, 28013 Madrid Comunidad de Madrid",40.417847,-3.70615
+106,4adcda35f964a5207d3b21e3,280,Chocolatería San Ginés,madrid,13034,Café,"Pasadizo de San Ginés, 5 (C. Arenal), 28013 Madrid Comunidad de Madrid",40.416821,-3.706735
+107,514d73fae4b0f2f188ab8d1c,294,Chocolatería - Churreria - los Artesanos 1902,madrid,13035,Coffee Shop,"Calle San Martín, 2, 28013 Madrid Comunidad de Madrid",40.417564,-3.706882
+108,4bad1658f964a520472c3be3,297,Prada a Tope,madrid,13347,Tapas Restaurant,"Calle Príncipe, 11, 28012 Madrid Comunidad de Madrid",40.415824,-3.700266
+109,51d5c142498eb4644f053d0b,316,La Rollerie,madrid,13034,Café,"Calle Atocha, 20, 28012 Madrid Comunidad de Madrid",40.413887,-3.703073
+110,58e25c5744587f5a0851ffac,343,La Rollerie,madrid,13035,Coffee Shop,"Carrera San Jerónimo, 26, 28014 Madrid Comunidad de Madrid",40.416509,-3.699594
+111,4c9cdc768afca093b936f115,345,La Campana,madrid,13006,Beer Bar,"Calle Botoneras, 6, 28012 Madrid Comunidad de Madrid",40.414862,-3.706872
+112,539ec60f498e2365d2b59892,362,Tapa Tapa Montera,madrid,13347,Tapas Restaurant,"Calle Montera, 47, 28013 Madrid Comunidad de Madrid",40.419646,-3.701871
+113,4b5f5c11f964a520f9b529e3,364,McDonald's,madrid,13031,Burger Joint,"Calle Montera, 47, 28013 Madrid Comunidad de Madrid",40.419822,-3.701873
+114,57756e14498e605edcad54fc,399,Salmon Guru,madrid,13009,Cocktail Bar,"Calle Echegaray, 21, 28014 Madrid Comunidad de Madrid",40.414875,-3.699518
+115,4b7eaa51f964a52008f82fe3,402,La Cabaña Argentina,madrid,13070,Argentinian Restaurant,"Ventura de la Vega, 10 (C. Carrera de San Jerónimo), 28014 Madrid Comunidad de Madrid",40.415775,-3.698985
+116,5ae9db515455b2002c7dde7e,406,Picalagartos Sky Bar,madrid,13013,Hotel Bar,"Calle Gran Vía, 21, 28013 Madrid Comunidad de Madrid",40.419866,-3.701165
+117,5bab7323cbcdee0039cdeac4,419,Five Guys Plaza Mayor,madrid,13031,Burger Joint,"Calle de Toledo, 19, 28005 Madrid Comunidad de Madrid",40.414212,-3.707299
+118,4b7eaafdf964a52027f82fe3,420,Arrocería Marina Ventura,madrid,13302,Mediterranean Restaurant,"Calle Ventura de la Vega, 13 (Carrera de San Jerónimo), 28014 Madrid Comunidad de Madrid",40.415435,-3.698899
+119,4b4e34f5f964a52042e526e3,429,Mesón del Champiñón,madrid,13347,Tapas Restaurant,"Cava de San Miguel, 17 (Calle de Toledo), 28005 Madrid Comunidad de Madrid",40.415086,-3.708156
+120,52b44116498e7400d783cb9d,447,Casino Gran Via,madrid,10008,Casino,"Gran Vía, 24, 28013 Madrid Comunidad de Madrid",40.420141,-3.700897
+121,588792e754073d35fb6f160f,448,Five Guys,madrid,13031,Burger Joint,"Calle Gran Via, 44 (C. Miguel Moya), 28013 Madrid Comunidad de Madrid",40.42052,-3.70556
+122,5499e15a498e9fa6ce68aee7,454,Darkom,madrid,13012,Hookah Bar,"Infante, 4, 28014 Madrid Comunidad de Madrid",40.414194,-3.699345
+123,4b4e3e50f964a52097e626e3,474,Restaurante Botín,madrid,13345,Spanish Restaurant,"Calle Cuchilleros, 17, 28005 Madrid Comunidad de Madrid",40.414054,-3.707978
+124,4adcda3af964a520263d21e3,477,El Asador de Aranda,madrid,13345,Spanish Restaurant,"Preciados, 44, 28013 Madrid Comunidad de Madrid",40.419871,-3.707594
+125,62c6c87fc5d05063683726d8,493,Honest Greens Gran Via 7,madrid,13302,Mediterranean Restaurant,"Calle Gran Vía, 7, 28013 Madrid Comunidad de Madrid",40.419319,-3.69887
+126,5dbc36bcd358eb0007abb621,493,Mexcalista,madrid,13303,Mexican Restaurant,"Calle del León, 5, 28014 Madrid Comunidad de Madrid",40.414489,-3.698532
+127,598b7d07ff190235c724d14d,494,Steakburger,madrid,13383,Steakhouse,"Calle Gran Vía, 55 (16), 28013 Madrid Comunidad de Madrid",40.419826,-3.699421
+128,5289cbc111d2b04c75f0824f,555,El Imparcial,madrid,13003,Bar,"Calle Duque de Alba, 4, 28012 Madrid Comunidad de Madrid",40.412012,-3.705853
+129,4b62df67f964a520a9562ae3,570,KFC,madrid,13055,Fried Chicken Joint,"Gran Vía, 52, 28013 Madrid Comunidad de Madrid",40.421135,-3.706985
+130,5650e689498e59806e43a30f,572,Ôven Mozzarella Bar,madrid,13236,Italian Restaurant,"Calle Gran Via, 6, 28013 Madrid Comunidad de Madrid",40.41936,-3.697781
+131,5e5ae0195bb4310008e9b847,595,Pum Pum Bakery,madrid,13034,Café,"Calle de la Esgrima, 1, 28012 Madrid Comunidad de Madrid",40.411355,-3.70391
+132,538ce5df498eb2165bface85,626,Yakitoro,madrid,13134,Comfort Food Restaurant,"Calle de la Reina, 41, 28004 Madrid Comunidad de Madrid",40.41972,-3.697322
+133,56ed93b0498eab944a13dd09,632,Casa Suecia,madrid,13065,Restaurant,"Calle del Marqués de Casa Riera, 4, 28014 Madrid Comunidad de Madrid",40.417876,-3.696262
+134,5cc58f1bfe3740002c581561,659,Zenith Brunch & Cocktails,madrid,13034,Café,"Calle de Valverde, 28, 28004 Madrid Comunidad de Madrid",40.422447,-3.701609
+135,4b9f5156f964a5205d1c37e3,664,Paraíso del Jamón,madrid,13347,Tapas Restaurant,"San Bernardo, 8, 28015 Madrid Comunidad de Madrid",40.421732,-3.707729
+136,4bc8f190762beee164ba3d38,666,Lusso Infantas,madrid,19014,Hotel,"Infantas, 29, 28004 Madrid Comunidad de Madrid",40.42012,-3.697001
+137,4adcda34f964a5202d3b21e3,678,Café de Oriente,madrid,13310,Modern European Restaurant,"Plaza de Oriente, 2, 28013 Madrid Comunidad de Madrid",40.417716,-3.711488
+138,4b717587f964a520bb472de3,712,Cervecería Cervantes,madrid,13003,Bar,"Plaza Jesus, 7, 28014 Madrid Comunidad de Madrid",40.41424,-3.695805
+139,4bbf8bbaf8219c74752ab010,715,El Sur,madrid,13065,Restaurant,"Torrecilla del Leal, 12, 28012 Madrid Comunidad de Madrid",40.411053,-3.69952
+140,4e7f34ce9adfa4c4ab2633db,763,Casa Amadeo los Caracoles,madrid,13347,Tapas Restaurant,"Plaza de Cascorro, 18, 28005 Madrid Comunidad de Madrid",40.410531,-3.707548
+141,5a00eb549deb7d58c962e66a,764,La Kama Cafe,madrid,13016,Lounge,"Calle de Augusto Figueroa, 17, 28004 Madrid Comunidad de Madrid",40.422818,-3.699462
+142,4bb18ee7f964a5207c993ce3,764,Meson el Jamon,madrid,13347,Tapas Restaurant,"Gran Via, 59, 28013 Madrid Comunidad de Madrid",40.422109,-3.709178
+143,59b3be7a9deb7d19c10eddc2,795,Pez Tortilla,madrid,13347,Tapas Restaurant,"Calle Cava Baja, 42, 28005 Madrid Comunidad de Madrid",40.411863,-3.710509
+144,638f11c41e5dc412b931f18d,436,Global Sources,madrid,17114,Shopping Mall,"Calle de Nicolás Usera, 58, 28026 Madrid Comunidad de Madrid",40.416324,-3.698448
+145,50425d0ce4b05698ba4da56d,771,Mercado de las Ranas,madrid,17114,Shopping Mall,"Calle Santa María, 20, 28014 Madrid Comunidad de Madrid",40.413195,-3.695709
+146,4b6efb75f964a520aad42ce3,1407,Príncipe Pío Shopping Center (C.C. Príncipe Pío),madrid,17114,Shopping Mall,"Centro Comercial Principe Pio - Paseo de la Florida, 2, 28008 Madrid Comunidad de Madrid",40.42125,-3.719111
+147,60ff036a646a4753eb93a3b4,1559,Experto en Duchas,madrid,17114,Shopping Mall,"Calle de Ercilla, 20, 28005 Madrid Madrid",40.402685,-3.702893
+148,4cf74cd281cd6dcbe803810d,1645,Goya con Serrano,madrid,17114,Shopping Mall,"Goya, 15 (Serrano), Madrid Comunidad de Madrid",40.425598,-3.688031
+149,662a2c5bfffe446298d57fd2,1695,Hermanos Revilla,madrid,17114,Shopping Mall,"Calle Goya, 8, 28001 Madrid Madrid",40.425174,-3.686908
+150,9f1865bfe39d4fad15f9435a,1776,Quiosco Principe Pio,madrid,17114,Shopping Mall,"Pº de la Florida, s/n, 28008 Madrid Madrid",40.422991,-3.722895
+151,4eb5611c93ad236570219cc8,155,Hotel indignado,madrid,16033,Dog Park,,40.415322,-3.70331
+152,4e6b38b4227162c38ec50ea0,309,Parque infantil Plaza Santa Ana,madrid,16037,Playground,Madrid Comunidad de Madrid,40.414998,-3.700691
+153,4f6f520be4b056aa9465342a,428,Parque Madrid Río,madrid,16032,Park,28011 Madrid Comunidad de Madrid,40.420474,-3.70466
+154,4f3bc8a4e4b0258ec279c458,431,"Valverde, 2",madrid,16037,Playground,Valverde,40.420428,-3.702154
+155,4e7154af1838677342eebeb5,618,Parque Atocha,madrid,16037,Playground,Madrid Comunidad de Madrid,40.422176,-3.702259
+156,58e4bb56072d6b471bc5e7a9,641,Almendro3,madrid,16037,Playground,28005 Madrid Comunidad de Madrid,40.412769,-3.709132
+157,4e6b347eae60950955d10afa,650,Parque Infantil Vazquez de Mella,madrid,16037,Playground,Madrid Comunidad de Madrid,40.420935,-3.698265
+158,50d86791e4b07ec189f70cb3,720,Parque Infantil Plaza de Oriente,madrid,16032,Park,,40.41752,-3.71203
+159,4e3bc1b1b0fb875af84a53ae,727,Parque infantil,madrid,16037,Playground,Madrid Comunidad de Madrid,40.417508,-3.712112
+160,500a863ae4b0c2a4dfe79290,810,Parque infantil Paseo del Prado,madrid,16037,Playground,"Pase del Prado, 8 (Zona Central), 28014 Madrid Comunidad de Madrid",40.417203,-3.69402
+161,4c963a7c94a0236a0bf49c12,973,Parque del Emir Mohamed I,madrid,16032,Park,"& Calle de Segovia, 28005 Madrid Comunidad de Madrid",40.414652,-3.714769
+162,6257bd119552b7515f326356,1002,Parl,madrid,16032,Park,Madrid Comunidad de Madrid,40.419893,-3.692503
+163,5164077de4b002d2251c0111,1032,Parque Cuesta de la Vega,madrid,16032,Park,Madrid Comunidad de Madrid,40.414783,-3.715479
+164,4adcda38f964a520673c21e3,1039,Jardines de las Vistillas,madrid,16032,Park,"Plaza de Gabriel Miró s/n, 28005 Madrid Comunidad de Madrid",40.412363,-3.714738
+165,61feacd7a086027f084b55e0,1084,Parque de Madrid,madrid,16032,Park,28008 Madrid Comunidad de Madrid,40.422613,-3.713789
+166,501447d1e4b06bc0bdcaa74a,1085,"Rio Manzanares, Principe pio, madrid",madrid,16032,Park,Madrid Comunidad de Madrid,40.426454,-3.702753
+167,4bee6ee3d355a59347e10a60,1197,Parque Casino de la Reina,madrid,16032,Park,"Calle Embajadores, 68, 28012 Madrid Comunidad de Madrid",40.405956,-3.704653
+168,62cfd9aa78c8af1095b7ed93,1209,Parque Calistenia,madrid,16032,Park,28005 Madrid Comunidad de Madrid,40.406543,-3.708692
+169,4c1a55c655e4c9b6ab904723,1250,Parque de la Cornisa,madrid,16032,Park,28005 Madrid Comunidad de Madrid,40.409336,-3.714941
+170,560f7c49498e45c037137430,1261,Parque de Madrid,madrid,16032,Park,Madrid Comunidad de Madrid,40.416692,-3.688647
+171,4faaa6afe4b048756de750db,1283,Área de Juegos Infantiles,madrid,16037,Playground,,40.416313,-3.688424
+172,4db28ec25da3944066ba4217,1306,Plaza de la Independencia (Madrid),madrid,16032,Park,"Plaza de la Independencia, s/n, 28014 Madrid Comunidad de Madrid",40.419818,-3.688171
+173,4bf7e0865317a5930bb0fe7e,1310,Parque de Atenas,madrid,16034,National Park,28005 Madrid Comunidad de Madrid,40.41432,-3.718661
+174,5764328f498ecbd85a1ab2d5,1314,Parque de la Ventosa,madrid,16032,Park,"Calle de la descarga, 28005 Madrid Comunidad de Madrid",40.408136,-3.714298
+175,4fcb2cd6e4b0928dc1bb1b84,1322,Parque Infantil el Fuerte de Madera,madrid,16037,Playground,Madrid Comunidad de Madrid,40.419997,-3.688555
+176,5c715d638ad62e002c78b4e8,1335,El Gran Balancín,madrid,16037,Playground,28009 Madrid Comunidad de Madrid,40.418723,-3.68802
+177,514debf3e4b023ae1105beb6,1338,El Sitio de los Gatos,madrid,16037,Playground,,40.414061,-3.688149
+178,5326dfba498ee418095d2f23,1339,Puerta de Murillo de los Jardines del Buen Retiro,madrid,16032,Park,Madrid Comunidad de Madrid,40.41282,-3.688595
+179,510e5f69e4b0f62779f2e538,1356,Ahuehuete,madrid,16032,Park,Madrid Comunidad de Madrid,40.415728,-3.687599
+180,5326e4dc498e78e019bf55a4,1381,Jardines de el Buen Retiro,madrid,16032,Park,Madrid Comunidad de Madrid,40.419537,-3.687677
+181,4be6a5fa2457a5933c03ad15,1399,Parque Villa de Paris,madrid,16032,Park,"C. Orellana, Madrid Comunidad de Madrid",40.426653,-3.693711
+182,4bd0490aa8b3a593058a635f,1411,Parque de la Montaña,madrid,16032,Park,"Paseo del Pintor Rosales, 2, 28008 Madrid Comunidad de Madrid",40.423525,-3.717616
+183,4f412e60e4b0c80f845a8664,1417,Parque de Conde Duque,madrid,16032,Park,,40.428538,-3.709838
+184,4ead75a0e5fad025f820f973,1476,Paseo de Mexico,madrid,16032,Park,Madrid Comunidad de Madrid,40.41896,-3.686389
+185,4dc5c745887717c8802d2012,1493,Parque Infantil Acacias,madrid,16037,Playground,Madrid Comunidad de Madrid,40.4041,-3.709721
+186,4deb9f2222713dd973b1c66f,1518,Jardines de la Virgen del Puerto,madrid,16032,Park,"Paseo de la Virgen del Puerto, 28011 Madrid Comunidad de Madrid",40.416046,-3.722144
+187,5326e5be11d2ce1ee64c3451,1522,Puerta de Hernani de los Jardines del Buen Retiro,madrid,16032,Park,Madrid Comunidad de Madrid,40.419887,-3.686075
+188,4f10284ee4b0a6added354b9,1532,Parque de Perros,madrid,16033,Dog Park,,40.430189,-3.707381
+189,526e27d911d2a3342d47716a,1539,Puerta de Hernani,madrid,16032,Park,Madrid Comunidad de Madrid,40.420365,-3.686027
+190,5b292c355d891b0039c408e3,1578,Mundo Alopeke,madrid,16037,Playground,28014 Madrid Madrid,40.421319,-3.685931
+191,500af254e4b0b8de34c6c962,1604,Parque infantil san Isidoro de Sevilla,madrid,16037,Playground,"San Isidoro de Sevilla, 28005 Madrid Comunidad de Madrid",40.4036,-3.711539
+192,4bee8228d355a593a6f10a60,1615,Plaza del Conde del Valle de Suchil,madrid,16037,Playground,"Pza. del Conde del Valle de Suchil, 3, 28015 Madrid Comunidad de Madrid",40.430791,-3.707281
+193,4d02a96228926ea8d4e860c2,1618,Parque,madrid,16032,Park,Madrid Comunidad de Madrid,40.4025,-3.707793
+194,4c9cd90946978cfa81db917f,1642,De Duendes,madrid,16037,Playground,Madrid Madrid,40.431458,-3.708761
+195,4c7a3b123badb1f719985154,1661,Parque Infantil,madrid,16032,Park,"Paseo Vallejo Najera, Madrid Comunidad de Madrid",40.401767,-3.704351
+196,c32db5b3432e4a6d96fc314a,1741,Parque del Buen Retiro Guided Tours,madrid,16032,Park,Madrid Madrid,40.414245,-3.683249
+197,6f80c9465c864d8d08d945bd,1743,Teleo Cuentos - Animal Party,madrid,11036,Entertainment Service,"Juan Álvarez Mendizábal, 54, 28008 Madrid Madrid",40.42809,-3.717761
+198,5012752ee4b0b960174c3210,1770,Parque Infantil,madrid,16037,Playground,28005 Madrid Comunidad de Madrid,40.401499,-3.709822
+199,4dc2c2e21f6ebdce472fe96f,1779,Parque Infantil,madrid,16037,Playground,"Calle de Fuencarral, 150, 28010 Madrid Comunidad de Madrid",40.432713,-3.704173
+200,4d270cbff7a9224bfc80e79f,1794,Parque Arganda,madrid,16032,Park,"Yeserias, Madrid Comunidad de Madrid",40.400958,-3.708289
