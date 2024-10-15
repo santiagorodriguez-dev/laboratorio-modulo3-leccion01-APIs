@@ -65,7 +65,8 @@ def obtener_coordenadas(datos_input):
 
     list_datos = []
 
-    for i in tqdm(datos_input):
+    for i in datos_input:
+    #for i in tqdm(datos_input):
         location = geocode(i)
         datos_in = []
         datos_in.append(i)
@@ -143,7 +144,8 @@ def get_all_data(df,token):
     df_final = pd.DataFrame(result)
 
     for e in lista_municip:
-        for c in tqdm(categoria):
+        #for c in tqdm(categoria):
+        for c in categoria:
             df_temp = get_data_places(e[0],c,distancia,e[1],e[2],token)
             df_final = pd.concat([df_temp, df_final], ignore_index=True)
             
