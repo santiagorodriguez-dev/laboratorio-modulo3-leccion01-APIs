@@ -59,6 +59,8 @@ def get_data_places(municipio, categorias, distancia ,latitud, longitud, token):
     resultado = response.json()
 
     df = pd.DataFrame(resultado['results'])
+    df['municipio']=pd.DataFrame(columns=["pueblos"])
+    df['municipio'] = municipio
 
     return df
  
